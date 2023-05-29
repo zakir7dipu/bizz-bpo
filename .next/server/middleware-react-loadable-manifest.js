@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"index.js -> @/src/components/isotope/CaseStudies":{id:8395,files:["static/chunks/391.c6eeca109a092ca1.js","static/chunks/395.e8c93e351d9a9d02.js"]},"portfolio.js -> @/src/components/isotope/CaseStudies":{id:8395,files:["static/chunks/391.c6eeca109a092ca1.js","static/chunks/395.e8c93e351d9a9d02.js"]}};
